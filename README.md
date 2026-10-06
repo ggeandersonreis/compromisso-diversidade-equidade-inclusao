@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rettecnologia.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%9D+Diversidade%2C+Equidade+%26+Inclus%C3%A3o;RET+Tecnologia+%E2%80%A2+DEI+Framework+2026" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%9D+Diversidade%2C+Equidade+%26+Inclus%C3%A3o;RET+Tecnologia+%E2%80%A2+DEI+Framework+2026" alt="Diversidade, Equidade & Inclusão — RET Tecnologia • DEI Framework 2026" />
   </a>
 </p>
 
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/McKinsey-35%25_Outperformance-success?style=flat-square" alt="McKinsey" />
-  <img src="https://img.shields.io/badge/HBR-19%25_Innovation_Revenue-blue?style=flat-square" alt="HBR" />
+  <img src="https://img.shields.io/badge/McKinsey-39%25_Outperformance-success?style=flat-square" alt="McKinsey" />
+  <img src="https://img.shields.io/badge/BCG-%2B19_p.p._Innovation_Revenue-blue?style=flat-square" alt="BCG" />
   <img src="https://img.shields.io/badge/Framework-Psych_Safety-blueviolet?style=flat-square" alt="Safety" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </p>
@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-  <strong>Empresas no top quartil de diversidade superam pares em 35% (McKinsey).<br/>Na RET, inclusão não é compliance — é vantagem competitiva de engenharia.</strong>
+  <strong>Empresas no top quartil de diversidade étnica na liderança têm 39% mais chance de superar pares em lucratividade (McKinsey, 2023).<br/>Na RET, inclusão não é compliance — é vantagem competitiva de engenharia.</strong>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 > *"Diversidade sem inclusão é presença sem pertencimento. Inclusão sem equidade é convite sem cadeira na mesa."*
 
-Na **RET Tecnologia**, operamos com a convicção de que times diversos tomam decisões melhores, **e a ciência comprova**. Nosso compromisso vai além de cotas ou eventos anuais — é um **framework estrutural** integrado em cada processo, do recrutamento ao deploy.
+Na **RET Tecnologia**, operamos com a convicção de que times diversos tomam decisões melhores, **e as evidências apontam nessa direção**. Nosso compromisso vai além de cotas ou eventos anuais — é um **framework estrutural** integrado em cada processo, do recrutamento ao deploy.
 
 ---
 
@@ -50,14 +50,12 @@ Na **RET Tecnologia**, operamos com a convicção de que times diversos tomam de
 
 | Pesquisa | Resultado | Fonte |
 |----------|-----------|-------|
-| Times no top quartil de diversidade étnica | **+35% probabilidade de outperformance** | McKinsey *Diversity Wins* (2023) |
-| Receita de inovação em empresas diversas | **+19% da receita total** | Harvard Business Review |
-| Impacto da segurança psicológica na performance | **#1 fator de performance em times** | Google Project Aristotle |
-| Remote-first e inclusão de talentos globais | **+33% pool de candidatos diversos** | Wharton School / UPenn |
-| Empresas com programas de bias training | **+27% retenção de minorias** | Deloitte Inclusion Survey |
-| Custo de turnover por falha em inclusão | **US$16K-20K por funcionário** | SHRM Benchmarks |
+| Empresas no top quartil de diversidade étnica em times executivos | **+39% de probabilidade de maior lucratividade** vs. o quartil inferior | [McKinsey *Diversity Matters Even More* (2023)](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-matters-even-more-the-case-for-holistic-impact) |
+| Receita de inovação em empresas com liderança mais diversa | **45% vs. 26% da receita (+19 p.p.)** | [BCG (2018)](https://www.bcg.com/publications/2018/how-diverse-leadership-teams-boost-innovation) |
+| Dinâmica mais importante para a eficácia de times | **Segurança psicológica** | [Google Project Aristotle](https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness) |
+| Vagas anunciadas como remotas (startups de STEM, EUA) | **+33% candidatos de minorias sub-representadas; +15% mulheres** | [Hsu & Tambe, Wharton](https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/Hsu-Tambe-Remote-Work.pdf) |
 
-> Investir em DEI não é gasto social — é **otimização de performance organizacional**.
+> Os estudos acima mostram **correlação**, não causalidade. Ainda assim, apontam na mesma direção: investir em DEI não é gasto social — é **otimização de performance organizacional**.
 
 ---
 
@@ -70,12 +68,12 @@ Processos de contratação redesenhados para eliminar viés sistêmico:
 - 📝 **Blind CV Review** — Nomes, fotos, idade e universidade removidos da triagem inicial
 - 🧪 **Coding Challenges Padronizados** — Problemas reais, avaliação por rubrica, não por "fit cultural"
 - 👥 **Painéis Diversos** — Entrevistas conduzidas por times com diversidade de perfis
-- 🤖 **AI Bias Checks** — Auditoria algorítmica em ferramentas de screening (obrigatório 2026)
+- 🤖 **AI Bias Checks** — Auditoria algorítmica em ferramentas de screening
 - 📊 **Tracking de Funil** — Monitoramento de conversão por grupo demográfico em cada etapa
 
 ### 2. 🧠 Segurança Psicológica (Google Project Aristotle)
 
-O **fator #1** de performance em times de elite é segurança psicológica — a certeza de que ninguém será punido por fazer uma pergunta, admitir um erro ou propor uma ideia.
+Segundo o Project Aristotle do Google, a dinâmica **mais importante** para a eficácia de times é a segurança psicológica — a certeza de que ninguém será punido por fazer uma pergunta, admitir um erro ou propor uma ideia.
 
 <details>
 <summary><strong>📋 Como implementamos segurança psicológica</strong></summary>
@@ -95,11 +93,12 @@ O **fator #1** de performance em times de elite é segurança psicológica — a
 
 ### 3. 💰 Pay Equity — Equidade Salarial Real
 
-Equidade salarial não é sobre salários iguais — é sobre **remuneração justa baseada em competência, não em poder de negociação ou gênero**.
+Equidade salarial começa por **salário igual para trabalho de igual valor**, como exige a CLT (art. 461), e vai além: **remuneração justa baseada em competência, não em poder de negociação ou gênero**.
 
 - 📊 **Auditorias Salariais Anuais** — Análise estatística de gaps por gênero, etnia e senioridade
 - 📐 **Faixas Salariais Transparentes** — Publicadas por cargo e senioridade (benchmark: Buffer / GitLab)
 - 🚫 **Proibição de Pergunta Salarial Anterior** — Prática alinhada com legislações progressivas globais
+- ⚖️ **Alinhamento com a [Lei 14.611/2023](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm)** — Lei brasileira de igualdade salarial entre mulheres e homens, que exige relatório semestral de transparência salarial de empresas com 100+ empregados
 - 🔄 **Revisão Semestral de Equidade** — Ajustes proativos, não reativos
 
 ### 4. 🌍 Remote-First como Vetor de Inclusão
@@ -127,14 +126,14 @@ Comunidades internas auto-organizadas para suporte, networking e advocacy:
 
 ## 📊 Dashboard de Metas
 
-| Indicador | Meta 2026 | Benchmark |
-|-----------|-----------|-----------|
-| 👥 Diversidade do pipeline de recrutamento | **50%+ candidatos diversos** | Industry avg: 30% |
-| 💰 Pay equity gap | **< 2%** | Market avg: 8-15% |
-| 🧠 Psychological safety score | **4.5+/5.0** | Google standard: 4.0 |
-| 🏛️ Participação em ERGs | **40%+ do time** | Top companies: 25% |
-| 🎓 Mulheres em cargos de liderança técnica | **35%+** | Industry avg: 18% |
-| 📊 Retenção de grupos sub-representados | **90%+** | Market avg: 72% |
+| Indicador | Meta 2026 |
+|-----------|-----------|
+| 👥 Diversidade do pipeline de recrutamento | **50%+ candidatos diversos** |
+| 💰 Pay equity gap | **< 2%** |
+| 🧠 Psychological safety score | **4.5+/5.0** |
+| 🏛️ Participação em ERGs | **40%+ do time** |
+| 🎓 Mulheres em cargos de liderança técnica | **35%+** |
+| 📊 Retenção de grupos sub-representados | **90%+** |
 
 ---
 
@@ -142,11 +141,11 @@ Comunidades internas auto-organizadas para suporte, networking e advocacy:
 
 | Framework / Fonte | Contribuição |
 |---|---|
-| **McKinsey** *Diversity Wins* | 35% outperformance em times diversos |
-| **Google Project Aristotle** | Segurança psicológica como fator #1 |
-| **Harvard Business Review** | 19% mais receita de inovação |
-| **Wharton School / UPenn** | Remote-first expande diversidade em 33% |
-| **AIHR / Deloitte** | Frameworks de medição DEI |
+| [**McKinsey** — *Diversity Matters Even More* (2023)](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-matters-even-more-the-case-for-holistic-impact) | +39% de probabilidade de maior lucratividade com diversidade étnica na liderança |
+| [**Google Project Aristotle**](https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness) | Segurança psicológica como dinâmica mais importante de times eficazes |
+| [**BCG** — *How Diverse Leadership Teams Boost Innovation* (2018)](https://www.bcg.com/publications/2018/how-diverse-leadership-teams-boost-innovation) | +19 p.p. de receita vinda de inovação com liderança mais diversa |
+| [**Hsu & Tambe** — Wharton / UPenn](https://faculty.wharton.upenn.edu/wp-content/uploads/2016/11/Hsu-Tambe-Remote-Work.pdf) | Vagas remotas atraem +33% candidatos de minorias sub-representadas |
+| [**Lei 14.611/2023**](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14611.htm) | Igualdade salarial e relatório de transparência salarial no Brasil |
 | **Buffer / GitLab** | Referência em transparência salarial |
 
 ---
